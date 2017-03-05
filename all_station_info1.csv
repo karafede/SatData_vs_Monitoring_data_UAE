@@ -1,0 +1,42 @@
+Site,Site_Type,Latitude,Longitude,Emirate,Authority
+Deira,NaN,25.26761,55.31303,Dubai,DM
+Karama,NaN,25.2432,55.30867,Dubai,DM
+Zabeel,NaN,25.23641,55.29868,Dubai,DM
+Safa,NaN,25.18832,55.24624,Dubai,DM
+JEBEL ALI VILLAGE,NaN,25.02944,55.11259,Dubai,DM
+EMIRATES HILLS,NaN,25.07445,55.15958,Dubai,DM
+DUBAI AIRPORT,NaN,25.24732,55.38628,Dubai,DM
+MUSHRIF,NaN,25.22006,55.45727,Dubai,DM
+Hatta,NaN,24.81787,56.13181,Dubai,DM
+JEBEL ALI PORT,NaN,25.0075,55.08423,Dubai,DM
+Warsan,NaN,25.15181,55.42918,Dubai,DM
+SHK. ZAYED ROAD,NaN,25.22005,55.28185,Dubai,DM
+SHK. MOHD. BIN ZAYED ROAD,NaN,25.05803,55.2716,Dubai,DM
+Hamdan Street,Urban Traffic,24.488928,54.36372,Abu Dhabi,EAD
+Khadeja Primary School,Urban Background,24.481558,54.36933,Abu Dhabi,EAD
+Khalifa High School,Suburban Background,24.430092,54.40843,Abu Dhabi,EAD
+Mussafah,Suburban Industrial,24.3472,54.50288,Abu Dhabi,EAD
+Baniyas School,Suburban Background,24.321339,54.63593,Abu Dhabi,EAD
+Al Ain Islamic Ins,Suburban Background,24.219058,55.734864,Abu Dhabi,EAD
+Al Ain Street,Urban Traffic,24.225858,55.76583,Abu Dhabi,EAD
+Bida Zayed,Suburban Background,23.652264,53.70389,Abu Dhabi,EAD
+Gayathi School,Suburban Background,23.835511,52.81033,Abu Dhabi,EAD
+Liwa Oasis,Rural Background Regional,23.095786,53.60641,Abu Dhabi,EAD
+Al Ruwais,Suburban Industrial site downwind of industrial area.,24.090855,52.7548,Abu Dhabi,EAD
+Habshan,Rural Industrial site downwind of industrial area.,23.750404,53.74529,Abu Dhabi,EAD
+E11 Road,NaN,24.035157,53.88531,Abu Dhabi,EAD
+Bain Al Jesrain,Urban background station with impact from both industry and traffic,24.403521,54.5161,Abu Dhabi,EAD
+Khalifa City A,Suburban background station with new developments,24.419918,54.5782,Abu Dhabi,EAD
+Al Mafraq,Suburban Industrial area with sources to be identified,24.286284,54.588875,Abu Dhabi,EAD
+Sweihan,Suburban Background station to determine the incoming flux from Northern Emirates and Dubai.,24.46666,55.34288,Abu Dhabi,EAD
+Al Tawia,Suburban background station,24.259183,55.70487,Abu Dhabi,EAD
+Zakher,Urban background station,24.163467,55.70211,Abu Dhabi,EAD
+Al Qua'a ,Regional Rural Background,23.531154,55.48596,Abu Dhabi,EAD
+Al Hamriyah,NaN,25.45524177,56.00091463,Sharjah,NCMS
+Kalba,NaN,25.07049123,56.32918572,Fujairah,NCMS
+Rashidyah ,NaN,25.39947795,55.50784731,Dubai,NCMS
+Elderly House,NaN,25.40044399,55.46660385,Abu Dhabi,NCMS
+Al Jeer,NaN,26.03305339,56.10978413,Ras Al Khaimah,NCMS
+Burairat,NaN,25.78242434,56.00351534,Ras Al Khaimah,NCMS
+Al Qasimiyah ,NaN,25.79208305,55.94676378,Sharjah,NCMS
+Ghalilah,NaN,25.99972201,56.07875231,Ras Al Khaimah,NCMS
