@@ -89,6 +89,9 @@ AQ_data_PM10 <- AQ_data %>%
 wd <- "E:/MASDAR_FK/Air Quality/Phase 1/Pathflow of Phase I_DG/MODIS_LAADS_NASA/"
 wd <- "Z:/_SHARED_FOLDERS/Air Quality/Phase 1/Pathflow of Phase I_DG/MODIS_LAADS_NASA/"
 
+AOD_2011 <- read_csv(paste0(wd,"2011_MODIS_processed/csv/extracted_all.csv"))
+AOD_2012 <- read_csv(paste0(wd,"2012_MODIS_processed/csv/extracted_all.csv"))
+
 AOD_2013 <- read_csv(paste0(wd,"2013_MODIS_processed/csv/extracted_all.csv"))
 AOD_2014 <- read_csv(paste0(wd,"2014_MODIS_processed/csv/extracted_all.csv"))
 AOD_2015 <- read_csv(paste0(wd,"2015_MODIS_processed/csv/extracted_all.csv"))
